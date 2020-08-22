@@ -1,0 +1,19 @@
+.wrapper {
+    padding: 20px;
+}
+
+.login-card {
+    max-width: 500px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.button-div {
+    text-align: right;
+    margin: 0;
+}

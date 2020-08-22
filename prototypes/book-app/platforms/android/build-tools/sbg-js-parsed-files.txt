@@ -1,0 +1,4 @@
+C:\Users\dmc31\Documents\Projects\book-app\platforms\android\app\src\main\assets\app\bundle.js
+C:\Users\dmc31\Documents\Projects\book-app\platforms\android\app\src\main\assets\app\runtime.js
+C:\Users\dmc31\Documents\Projects\book-app\platforms\android\app\src\main\assets\app\tns-java-classes.js
+C:\Users\dmc31\Documents\Projects\book-app\platforms\android\app\src\main\assets\app\vendor.js
